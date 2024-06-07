@@ -2,11 +2,11 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '3e016bc7ed734d7db07cee5101375aa6',
+  rootNotionPageId: '7875426197cf461698809def95960ebf',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  https://caring-dibble-be5.notion.site/Ye-Seol-Kwon-3e016bc7ed734d7db07cee5101375aa6?pvs=4: null,
+  rootNotionPageId:3e016bc7ed734d7db07cee5101375aa6
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
