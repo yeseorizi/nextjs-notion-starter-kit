@@ -6,7 +6,7 @@ export default siteConfig({
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: null,
+  https://caring-dibble-be5.notion.site/Ye-Seol-Kwon-3e016bc7ed734d7db07cee5101375aa6?pvs=4: null,
 
   // basic site info (required)
   name: 'Next.js Notion Starter Kit',
